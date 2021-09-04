@@ -1,0 +1,4 @@
+## Clonar repositório
+$git clone < endereço do repositório do github>
+
+$git status
