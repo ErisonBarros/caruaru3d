@@ -12,7 +12,7 @@ $ git status
 
 $ git add .
 
-git commmit -m "primeiro push"
+git commit -m "primeiro push"
 
 $ git log
 
